@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05ae25ce-f892-4a81-93e7-4430a505ec2d" name="Default Changelist" comment="2" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dhpAyxROQcPZv3rs2E1682QFTJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Scripts" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CicdJenkinsTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cicd-jenkins-test.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.galid.cicdjenkinstest.CicdJenkinsTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05ae25ce-f892-4a81-93e7-4430a505ec2d" name="Default Changelist" comment="" />
+      <created>1592886828389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592886828389</updated>
+      <workItem from="1592886829621" duration="208000" />
+      <workItem from="1592887041003" duration="1299000" />
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1592892284278</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592892284278</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="874" y="321" key="CommitChangelistDialog2" timestamp="1592892417015">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="874" y="321" key="CommitChangelistDialog2/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1592892284091" />
+    <state x="874" y="321" key="CommitChangelistDialog2/2560.23.1920.1057/0.0.2560.1440@0.0.2560.1440" timestamp="1592892417015" />
+    <state x="768" y="301" key="SettingsEditor" timestamp="1592887028437">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="768" y="301" key="SettingsEditor/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1592887028437" />
+    <state x="880" y="448" key="Vcs.Push.Dialog.v2" timestamp="1592892358540">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="880" y="448" key="Vcs.Push.Dialog.v2/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1592892358540" />
+    <state x="674" y="424" key="new project wizard" timestamp="1592887011450">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="674" y="424" key="new project wizard/2560.0.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1592887011450" />
+  </component>
+</project>
