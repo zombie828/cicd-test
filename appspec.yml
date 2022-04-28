@@ -6,6 +6,6 @@ files:
 
 hooks:
   ApplicationStop:
-    - location: kill_process.sh
+    - location: /Scripts/kill_process.sh
   ApplicationStart:
-    - location: run_process.sh
+    - location: /Scripts/run_process.sh
